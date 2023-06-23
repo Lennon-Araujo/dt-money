@@ -27,6 +27,12 @@ export const Content = styled.div`
     &:hover {
       filter: brightness(0.9)
     }
+
+    &:focus {
+      box-shadow: 0 0 0 0;
+      border: 0 none;
+      outline: 0;
+    }
   }
 
 `;
