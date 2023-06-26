@@ -39,7 +39,6 @@ export function TransactionsProvider({ children }: TransactionProviderProps) {
       createdAt: new Date()
     });
     const { transaction } = response.data;
-
     setTransactions([...transactions, transaction])
   }
 
