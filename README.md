@@ -1,2 +1,2 @@
-Aula atual: #F027 02. Estrutura com create-react-app
+Aula atual: #F047 10. Listando transações e seeds
 Terminada
