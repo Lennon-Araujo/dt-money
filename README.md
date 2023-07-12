@@ -1,2 +1,1 @@
-Aula atual: #F047 10. Listando transações e seeds
-Terminada
+Projeto realizado nas aulas do Ignite Rocketseat
